@@ -14,7 +14,7 @@ I attended the Information Technology Oracle Academy at Havre de Grace High Scho
 - Skyrim gameplay mod: introduces a new quest line in Winterhold (Expected time of completion: 2026)
 
 ## Featured Projects
-- C++ Dynamic Integer List data structure (LINK)
+- C++ Dynamic Integer List data structure ([Link](https://github.com/amarti71/INTEGER_LIST_DATA_STRUCTURE))
 - ASCII Snake ([Link](https://github.com/amarti71/SNAKE_GAME))
 - C++-based mini integer operation language ([Link](https://github.com/amarti71/Mini_Integer_Language))
 - More on the way!
