@@ -16,7 +16,7 @@ I attended the Information Technology Oracle Academy at Havre de Grace High Scho
 ## Featured Projects
 - C++ Dynamic Integer List data structure (LINK)
 - ASCII Snake (LINK)
-- C++-based mini integer operation language (LINK)
+- C++-based mini integer operation language ([Link](https://github.com/amarti71/Mini_Integer_Language))
 - More on the way!
 
 ## What I'm Currently Learning
